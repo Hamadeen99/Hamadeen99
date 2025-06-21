@@ -6,7 +6,7 @@
 🚀 Currently working on Thesis and deploying GenAI projects with Hugging Face & MCP  
 
 
-<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>🛠️ Languages and Tools </h2>
 
 <p align="left">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/></a>
