@@ -4,11 +4,20 @@
   </a>
 </p>
 
+---
 
-🎓 Master's student in Artificial Intelligence  
-🧠 Passionate about Generative AI, Computer Vision, and Autonomous Robotics  
-🔬 Research Assistant  
-🚀 Currently working on Thesis and deploying GenAI projects with Hugging Face & MCP  
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  🎓 Master's student in <strong>Artificial Intelligence</strong><br><br>
+  🧠 Passionate about <strong>Generative AI</strong>, <strong>Computer Vision</strong>, and <strong>Autonomous Robotics</strong><br><br>
+  🔬 Research Assistant exploring real-world AI applications<br><br>
+  🚀 Currently working on my thesis and building GenAI projects using  
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/> Hugging Face &  
+  <img src="https://github.com/langchain-ai/langgraph/raw/main/docs/logo.png" width="20"/> MCP (LangGraph)
+</p>
+
+---
 
 
 <h2>🛠️ Languages and Tools </h2>
