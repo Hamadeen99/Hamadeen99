@@ -3,7 +3,11 @@
   <span style="font-size: 64px;">🤖</span>
 </p>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=4995&pause=995&color=1455FF&center=true&vCenter=true&random=true&width=438&height=60&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
 
 <hr/>
 
