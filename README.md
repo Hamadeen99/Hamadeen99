@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=850&height=80&lines=🚧+Profile+in+development...;[░░░░░░░░░░]+Loading+0%25;[██░░░░░░░░]+Loading+20%25;[████░░░░░░]+Loading+40%25;[██████░░░░]+Loading+60%25;[████████░░]+Loading+80%25;[██████████]+Ready+for+launch!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=850&height=80&lines=🚧+Profile+in+development...;[----------]+Loading+0%25;[##--------]+Loading+20%25;[####------]+Loading+40%25;[######----]+Loading+60%25;[########--]+Loading+80%25;[##########]+Ready+for+launch!" alt="Typing SVG" />
   </a>
 </p>
 
