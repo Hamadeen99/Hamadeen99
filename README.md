@@ -1,7 +1,6 @@
 
-<p align="center">
-  <span style="font-size: 64px;">🤖</span>
-</p>
+<h1 align="center">🤖</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
