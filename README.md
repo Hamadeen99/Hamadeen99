@@ -60,7 +60,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4995&pause=995&color=FF4E2D&center=true&vCenter=true&random=true&width=438&height=60&lines=%09%E2%9A%A0%EF%B8%8F+Caution%3A+Profile+Under+Construction..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4995&pause=995&color=FF0000&center=true&vCenter=true&random=true&width=850&height=80&lines=%F0%9F%9A%A7+Profile+in+development;Just+one+repo+for+now;the+rest+are+cooking" alt="Typing SVG" />
   </a>
 </p>
+
 
