@@ -20,11 +20,10 @@
 ---
 
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Technical Skills & Tools</h2>
 
 ---
 
-<h3 align="center">🧑‍💻 Languages</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/></a>
@@ -33,7 +32,6 @@
 
 ---
 
-<h3 align="center">📚 Libraries & Frameworks</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/></a>
@@ -43,7 +41,6 @@
 
 ---
 
-<h3 align="center">🧰 IDEs & Notebooks</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter"/></a>
@@ -52,7 +49,6 @@
 
 ---
 
-<h3 align="center">🗃️ Version Control & OS</h3>
 <p align="center">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" title="GitHub"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/></a>
@@ -62,7 +58,6 @@
 
 ---
 
-<h3 align="center">🎨 UI/UX & Prototyping</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/></a>
