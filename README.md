@@ -15,9 +15,9 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  🎓 Master's student in <strong>Artificial Intelligence</strong><br><br>
-  🔬 <strong>Research Assistant</strong><br><br>
-  🚀 Currently working on my thesis and building GenAI projects
+  🎓 Currently pursuing a Master's in <strong>Artificial Intelligence</strong><br><br>
+  🧠 Self-driven and endlessly curious<br><br>
+  🌍 Passionate about developing useful AI that solves real-world problems
 </p>
 
 <hr/>
