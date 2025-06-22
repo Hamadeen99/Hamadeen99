@@ -1,4 +1,4 @@
-# 👋 Hi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=999&color=4263B8&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 🎓 Master's student in Artificial Intelligence  
 🧠 Passionate about Generative AI, Computer Vision, and Autonomous Robotics  
@@ -22,7 +22,7 @@
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" title="GitHub"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50" title="ubuntu"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/ubuntu-original.svg" width="50" title="linux"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="linux"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" title="canva"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/></a>
 
