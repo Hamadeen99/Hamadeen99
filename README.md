@@ -11,8 +11,7 @@
 <p align="center">
   
   🎓 Master's student in <strong>Artificial Intelligence</strong><br><br>
-  🔬 <strong>Research Assistant</strong> <br><br>
-  🧠 
+  🔬 <strong>Research Assistant</strong> <br><br> 
   🚀 Currently working on my thesis and building GenAI projects  
 </p>
 
