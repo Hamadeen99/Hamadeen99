@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=4995&pause=995&color=1455FF&center=true&vCenter=true&random=true&width=438&height=60&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4995&pause=995&color=659AFF&center=true&vCenter=true&random=true&width=600&height=70&lines=Welcome+to+my+GitHub+Profile+!;AI+born+from+research.+Raised+in+the+real+world." alt="Typing SVG" />
   </a>
 </p>
+
 
 <hr/>
 
