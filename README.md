@@ -1,8 +1,15 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=999&color=4263B8&center=true&vCenter=true&random=true&width=438&height=60&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4995&pause=999&color=4263B8&center=true&vCenter=true&random=true&width=438&height=60&lines=%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=4995&pause=995&color=1455FF&center=true&vCenter=true&random=true&width=438&height=60&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <hr/>
 
@@ -50,3 +57,10 @@
 </p>
 
 <hr/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4995&pause=995&color=FF4E2D&center=true&vCenter=true&random=true&width=438&height=60&lines=%09%E2%9A%A0%EF%B8%8F+Caution%3A+Profile+Under+Construction..." alt="Typing SVG" />
+  </a>
+</p>
+
