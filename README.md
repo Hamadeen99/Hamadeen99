@@ -36,13 +36,13 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/></a>
   <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="45" title="ROS"/></a>
-  <a href="#"><img src="https://avatars.githubusercontent.com/u/139914295?s=200&v=4" width="45" title="Ollama"/></a>
-  <a href="#"><img src="https://langchain.com/assets/logo-dark-mode.svg" width="45" title="LangGraph"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/langfuse/langfuse/main/apps/web/public/android-chrome-192x192.png" width="45" title="Langfuse"/></a>
-  <a href="#"><img src="https://ultralytics.com/images/logo-dark.png" width="45" title="Ultralytics (YOLO)"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/img/logo.png" width="45" title="LlamaIndex"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/images/chroma-logo.png" width="45" title="ChromaDB"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/smol-ai/smol-dev/main/assets/logo.png" width="45" title="SmolAgents"/></a>
+  <a href="https://ollama.com/"><img src="https://avatars.githubusercontent.com/u/139914295?s=200&v=4" width="45" title="Ollama"/></a>
+  <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/favicon.png" width="45" title="LangChain / LangGraph"/></a>
+  <a href="https://www.langfuse.com/"><img src="https://raw.githubusercontent.com/langfuse/langfuse/main/public/logo512.png" width="45" title="LangFuse"/></a>
+  <a href="https://ultralytics.com/"><img src="https://avatars.githubusercontent.com/u/103202009?s=200&v=4" width="45" title="Ultralytics (YOLO)"/></a>
+  <a href="https://www.llamaindex.ai/"><img src="https://avatars.githubusercontent.com/u/123830360?s=200&v=4" width="45" title="LlamaIndex"/></a>
+  <a href="https://www.trychroma.com/"><img src="https://avatars.githubusercontent.com/u/123185236?s=200&v=4" width="45" title="ChromaDB"/></a>
+  <a href="https://github.com/smol-ai"><img src="https://avatars.githubusercontent.com/u/143099791?s=200&v=4" width="45" title="SmolAgents"/></a>
 </p>
 
 
