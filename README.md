@@ -31,10 +31,10 @@
 </p>
 
 <p align="center">  
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google%20Colab.png" width="45" title="Google Colab"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/ollama_icon.png" width="45" title="Ollama"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/llamaindex_icon.png" width="45" title="LlamaIndex"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/openai_icon.png" width="45" title="OpenAI API"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google_Colab.png" width="45" title="Google Colab"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Ollama.png" width="45" title="Ollama"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/LLamaIndex.png" width="45" title="LlamaIndex"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="45" title="OpenAI API"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/></a>
   <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/></a>
