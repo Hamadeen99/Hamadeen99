@@ -31,7 +31,6 @@
 </p>
 
 <p align="center">  
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google_Colab.png" width="50" title="Google Colab"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Ollama.png" width="50" title="Ollama"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/LLamaIndex.png" width="50" title="LlamaIndex"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="60" title="OpenAI API"/></a>
@@ -44,6 +43,7 @@
 
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google_Colab.png" width="50" title="Google Colab"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" title="Anaconda"/></a>
 </p>
