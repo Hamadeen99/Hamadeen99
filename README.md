@@ -33,7 +33,7 @@
 <p align="center">  
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Ollama.png" width="50" title="Ollama"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/LLamaIndex.png" width="50" title="LlamaIndex"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="60" title="OpenAI API"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="65" title="OpenAI API"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/></a>
   <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" title="Hugging Face"/></a>
@@ -49,15 +49,15 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="45" title="GitHub"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" title="Ubuntu"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/></a>
+  <a href="#"><img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="50" title="GitHub"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50" title="Ubuntu"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/></a>
 </p>
 
 <hr/>
