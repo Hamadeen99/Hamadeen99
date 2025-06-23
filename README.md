@@ -31,21 +31,21 @@
 </p>
 
 <p align="center">  
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google_Colab.png" width="45" title="Google Colab"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Ollama.png" width="45" title="Ollama"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/LLamaIndex.png" width="45" title="LlamaIndex"/></a>
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="45" title="OpenAI API"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/></a>
-  <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="45" title="ROS"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google_Colab.png" width="50" title="Google Colab"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Ollama.png" width="50" title="Ollama"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/LLamaIndex.png" width="50" title="LlamaIndex"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/OpenAI_API.png" width="60" title="OpenAI API"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/></a>
+  <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" title="Hugging Face"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" title="ROS"/></a>
 </p>
 
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" title="Anaconda"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" title="Anaconda"/></a>
 </p>
 
 <p align="center">
