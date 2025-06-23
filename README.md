@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">  
-  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/colab_icon.png" width="45" title="Google Colab"/></a>
+  <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/Google%20Colab.png" width="45" title="Google Colab"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/ollama_icon.png" width="45" title="Ollama"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/llamaindex_icon.png" width="45" title="LlamaIndex"/></a>
   <a href="#"><img src="https://github.com/Hamadeen99/Hamadeen99/openai_icon.png" width="45" title="OpenAI API"/></a>
