@@ -1,6 +1,6 @@
-
-<h1 align="center">🤖</h1>
-
+<p align="center">
+  <img src="https://github.com/Hamadeen99/Hamadeen99/blob/main/AI.png" width="300" alt="AI Brain Banner"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
