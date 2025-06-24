@@ -17,12 +17,12 @@
 <p align="center">
   🎓 <strong>Artificial Intelligence Master's student</strong><br><br>
   🧠 Self-driven and endlessly curious<br><br>
-  🌍 Passionate about developing useful AI that solves real-world problems
+
 </p>
 
 <hr/>
 
-<h2 align="center">🛠️ Technical Skills & Tools</h2>
+<h2 align="center">🛠️ Tech Skills & Tools</h2>
 
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/></a>
