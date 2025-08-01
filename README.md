@@ -7,8 +7,8 @@
 <hr/>
 <h2 align="center">🧠 About Me</h2>
 <p align="center">
-    <strong>---AI Master's student---</strong><br><br>
-    <strong>---Teaching Models to learn while learning to teach Models---</strong><br><br>
+    <strong> AI Master's student </strong><br><br>
+    <strong> Teaching Models to learn while learning to teach Models </strong><br><br>
 </p>
 <hr/>
 
